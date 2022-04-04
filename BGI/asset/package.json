@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "4.0",
+    "bs-stepper": "^1.7.0",
+    "mdbootstrap": "^4.20.0"
+  }
+}
