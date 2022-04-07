@@ -187,7 +187,7 @@ h2 {
 
 .main {
   background: #f8f8f8;
-  padding: 150px 0; }
+ }
 
 .clear {
   clear: both; }
@@ -203,7 +203,7 @@ body {
 .container {
   width: 900px;
   background: #fff;
-  margin: 0 auto;
+  margin-left: 200px;
   box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
   -webkit-box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
@@ -213,7 +213,11 @@ body {
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
   -o-border-radius: 20px;
-  -ms-border-radius: 20px; }
+  -ms-border-radius: 20px; 
+  position: fixed;
+ 
+
+}
 
 .display-flex {
   justify-content: space-between;
